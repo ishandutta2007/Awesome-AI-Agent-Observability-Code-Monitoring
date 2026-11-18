@@ -1,48 +1,54 @@
-# Awesome-AI-Agent-Observability-Code-Monitoring
+# 🌟 Awesome AI Agent Observability & Code Monitoring
 
-## Top AI Agent Observability & Code Monitoring Ecosystem
+<p align="center">
+  <img src="assets/banner.svg" alt="Awesome AI Agent Observability &amp; Code Monitoring Banner" width="100%" />
+</p>
 
+<p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-AI-Agent-Observability-Code-Monitoring/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-AI-Agent-Observability-Code-Monitoring?style=flat-square&color=gold" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-AI-Agent-Observability-Code-Monitoring/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-AI-Agent-Observability-Code-Monitoring?style=flat-square&color=blue" alt="GitHub Forks" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-AI-Agent-Observability-Code-Monitoring/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-AI-Agent-Observability-Code-Monitoring?style=flat-square&color=green" alt="Issues" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-AI-Agent-Observability-Code-Monitoring/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-AI-Agent-Observability-Code-Monitoring?style=flat-square&color=orange" alt="License" /></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+</p>
 
+---
 
-**Curated List of SaaS Products & Open-Source GitHub Projects**  
+## 🎯 Top AI Agent Observability & Code Monitoring Ecosystem
 
-*Focused on OpenTelemetry Agent Tracing, Coding Agent Session Monitors, LLM Cost/Token Telemetry, Trajectory Debugging & Evaluation*  
+**Curated List of SaaS Products & Open-Source GitHub Projects for Autonomous Agents & LLMOps**  
+*Focused on OpenTelemetry Agent Tracing, Coding Agent Session Monitors (Claude Code, Cursor, OpenHands), LLM Cost/Token Telemetry, Trajectory Debugging, Guardrails & Evaluation.*
 
-**Last updated: November 2026**
+📅 **Last updated: November 2026**
 
+This repository tracks notable **SaaS platforms** and **open-source repositories** for **AI Agent Observability, Telemetry & Code Monitoring**. These tools capture span-level traces across multi-step autonomous agent runs, monitor autonomous coding agents (`Claude Code`, `Codex`, `Cursor`, `OpenHands`, `Devin`) in real time, track token burn and API latencies, and evaluate agentic trajectory reliability in production CI/CD pipelines.
 
+---
 
-This repository tracks notable **SaaS platforms** and **open-source projects** for **AI Agent Observability & Code Monitoring**. These tools capture span-level traces across multi-step agent runs, monitor autonomous coding agents (`Claude Code`, `Codex`, `Cursor`, `OpenHands`) in real time, track token spend and latency, and evaluate trajectory reliability in production.
+## 📑 Table of Contents
 
+- [📊 Sector Overview & Market Dynamics](#-sector-overview--market-dynamics)
+- [☁️ SaaS/Hosted Platforms](#️-saashosted-platforms)
+- [💻 Open-Source GitHub Projects](#-open-source-github-projects)
+- [🤝 How to Contribute](#-how-to-contribute)
+- [💖 Support & Community](#-support--community)
+- [📈 Star History](#-star-history)
+- [⚖️ Disclaimer](#️-disclaimer)
 
+---
 
-**Examples** include LangSmith, Arize Phoenix, Helicone, HoneyHive, Braintrust, Traceloop, OpenLIT, Lunary, Galileo, Weights & Biases Weave, and hoangsonww/Claude-Code-Agent-Monitor (the category leaders). 
+## 📊 Sector Overview & Market Dynamics
 
+The AI Agent & LLM Observability market is valued at approximately **$2.7B to $3.5B in 2026** and is accelerating at a rapid **~30–36% CAGR**, projected to exceed **$9.3B by 2030**. 
 
+The sector is currently transitioning from **high fragmentation** (characterized by an explosion of niche prompt logging and evaluation startups) toward **moderate concentration**, driven by aggressive M&A consolidation from legacy enterprise APM giants (e.g., Dynatrace acquiring Arize, CoreWeave acquiring Weights & Biases, ServiceNow acquiring Traceloop, and ClickHouse acquiring Langfuse) alongside dominant open-source telemetry standards centered around OpenTelemetry.
 
-**Open-source emphasis**: This section is heavily expanded with every major active project for local coding-agent dashboards, OpenTelemetry LLM auto-instrumentation, self-hosted trace collectors, prompt/dataset debugging, and CI/CD trajectory evaluations — ideal for AI engineers, DevOps/LLMOps architects, and developers monitoring autonomous coding workflows.
+---
 
+## ☁️ SaaS/Hosted Platforms
 
-
-Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
-
-
-
-## Table of Contents
-
-- [SaaS/Hosted Platforms](#saashosted-platforms)
-
-- [Open-Source GitHub Projects](#open-source-github-projects)
-
-- [How to Contribute](#how-to-contribute)
-
-- [Disclaimer](#disclaimer)
-
-
-
-## SaaS/Hosted Platforms
-
-| Platform | Company Valuation / Revenue | Starting Paid Tier Price | Free Tier Limits / Trial | Description |
+| 🏢 Platform | 💰 Company Valuation / Revenue | 🏷️ Starting Paid Tier Price | 🎁 Free Tier Limits / Trial | 📝 Description |
 | :--- | :--- | :--- | :--- | :--- |
 | **[LangSmith (LangChain)](https://langchain.com)** | **$3.0B valuation** (Series C) / ~$16M ARR | **$39 / user / month** (Plus Plan; includes 10,000 traces/mo, additional at $2.50/1k) | **Developer Free Plan**: 5,000 traces/mo, 1 seat, 14-day data retention | All-in-one cloud observability, debugging, testing, and evaluation platform engineered for tracing complex LLM chains and stateful LangGraph agent runs. |
 | **[Weights & Biases Weave](https://wandb.ai)** | **$1.4B–$1.7B acquisition** by CoreWeave / ~$50M ARR | **$60 / month** (Pro Plan; up to 10 seats, 100 GB storage) | **Free Plan**: Up to 5 model seats, ~1 GB/mo Weave trace ingestion, 5 GB storage | Cloud developer toolkit from W&B for logging, tracing, visualizing, and evaluating LLM calls, tool executions, and multi-agent workflows. |
@@ -55,158 +61,112 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 | **[Lunary](https://lunary.ai)** | **Early-stage / Seed** (Xpreneurs backed) | **$20 / user / month** (Team Plan; includes 50,000 events/mo, 300 playground queries/mo) | **No free tier or trial on Cloud** (Requires $20/user/mo upfront; unlimited free usage if self-hosted via OSS) | Production LLM observability, prompt management, and user analytics platform tailored for multi-step AI agent workflows and B2B AI products. |
 | **[OpenLIT Cloud](https://openlit.io)** | **Bootstrapped / Community open-source** | **Custom enterprise contract** (Managed cloud platform waitlist / Private beta) | **Waitlist only for Cloud** (Unlimited free usage with no trace caps or seat limits via self-hosted Apache 2.0 OSS) | Hosted OpenTelemetry-native observability and GPU/LLM monitoring platform tracking token consumption, vector database latency, and agent execution spans. |
 
+---
 
+## 💻 Open-Source GitHub Projects
 
+All open-source repositories below are sorted in descending order by their GitHub star count. Each repo is paired with a direct social star badge linking to its stargazers page.
 
+1. **[Langfuse (`langfuse/langfuse`)](https://github.com/langfuse/langfuse)** [![GitHub stars](https://img.shields.io/github/stars/langfuse/langfuse?style=social&color=white)](https://github.com/langfuse/langfuse/stargazers)  
+   Leading open-source LLM engineering and observability platform for full-stack agent tracing, nested span visualization, prompt versioning, session replays, and automated LLM-as-a-judge evaluations.
 
-## Open-Source GitHub Projects
+2. **[SigNoz (`SigNoz/signoz`)](https://github.com/SigNoz/signoz)** [![GitHub stars](https://img.shields.io/github/stars/SigNoz/signoz?style=social&color=white)](https://github.com/SigNoz/signoz/stargazers)  
+   Open-source alternative to DataDog and New Relic providing native OpenTelemetry distributed tracing, metrics, and log aggregation tailored for microservices and AI agent workloads.
 
+3. **[MLflow (`mlflow/mlflow`)](https://github.com/mlflow/mlflow)** [![GitHub stars](https://img.shields.io/github/stars/mlflow/mlflow?style=social&color=white)](https://github.com/mlflow/mlflow/stargazers)  
+   Comprehensive open-source machine learning and LLMOps platform featuring native GenAI tracing, model evaluation, artifact tracking, and OpenTelemetry span visualization for agent pipelines.
 
+4. **[Promptfoo (`promptfoo/promptfoo`)](https://github.com/promptfoo/promptfoo)** [![GitHub stars](https://img.shields.io/github/stars/promptfoo/promptfoo?style=social&color=white)](https://github.com/promptfoo/promptfoo/stargazers)  
+   Test-driven security, red-teaming, and CI/CD evaluation framework for LLMs and autonomous agents to detect hallucinations, assess tool-call correctness, and enforce safety guardrails.
 
-- **[hoangsonww/Claude-Code-Agent-Monitor](https://github.com)**  
+5. **[Opik (`comet-ml/opik`)](https://github.com/comet-ml/opik)** [![GitHub stars](https://img.shields.io/github/stars/comet-ml/opik?style=social&color=white)](https://github.com/comet-ml/opik/stargazers)  
+   Open-source (`Apache-2.0`) end-to-end LLM evaluation and observability platform from Comet built for logging high-volume multi-agent runs, tracking token spend, and running automated judges.
 
-  Open-source real-time monitoring dashboard and telemetry tracker built specifically for inspecting Claude Code agent sessions, sub-agent tool calls, file edits, token burn, and execution timelines.
+6. **[Jaeger (`jaegertracing/jaeger`)](https://github.com/jaegertracing/jaeger)** [![GitHub stars](https://img.shields.io/github/stars/jaegertracing/jaeger?style=social&color=white)](https://github.com/jaegertracing/jaeger/stargazers)  
+   Cloud Native Computing Foundation (CNCF) graduated distributed tracing system used as a battle-tested backend for visualizing OpenTelemetry spans and multi-agent execution graphs.
 
+7. **[DeepEval (`confident-ai/deepeval`)](https://github.com/confident-ai/deepeval)** [![GitHub stars](https://img.shields.io/github/stars/confident-ai/deepeval?style=social&color=white)](https://github.com/confident-ai/deepeval/stargazers)  
+   Open-source evaluation framework for unit testing LLM applications and agent trajectories with support for G-Eval, hallucination detection, RAG metrics, and tool execution accuracy.
 
+8. **[ccusage (`ryoppippi/ccusage`)](https://github.com/ryoppippi/ccusage)** [![GitHub stars](https://img.shields.io/github/stars/ryoppippi/ccusage?style=social&color=white)](https://github.com/ryoppippi/ccusage/stargazers)  
+   Fast open-source CLI analyzer and terminal dashboard for parsing local Claude Code JSONL session logs, daily token burn, cache hit efficiency, and model API cost analytics.
 
-- **[Langfuse](https://github.com)**  
+9. **[Arize Phoenix (`Arize-ai/phoenix`)](https://github.com/Arize-ai/phoenix)** [![GitHub stars](https://img.shields.io/github/stars/Arize-ai/phoenix?style=social&color=white)](https://github.com/Arize-ai/phoenix/stargazers)  
+   Open-source AI observability and evaluation platform delivering interactive trace waterfall timelines, tool-calling diagnostics, RAG analysis, and notebook integration.
 
-  Leading open-source LLM engineering platform for full-stack agent tracing, nested span visualization, prompt versioning, session replays, and automated evaluations.
+10. **[TensorZero (`tensorzero/tensorzero`)](https://github.com/tensorzero/tensorzero)** [![GitHub stars](https://img.shields.io/github/stars/tensorzero/tensorzero?style=social&color=white)](https://github.com/tensorzero/tensorzero/stargazers)  
+    High-performance, industrial-grade open-source LLM gateway, observability proxy, and experimentation engine written in Rust for low-latency agent telemetry.
 
+11. **[OpenTelemetry Collector (`open-telemetry/opentelemetry-collector`)](https://github.com/open-telemetry/opentelemetry-collector)** [![GitHub stars](https://img.shields.io/github/stars/open-telemetry/opentelemetry-collector?style=social&color=white)](https://github.com/open-telemetry/opentelemetry-collector/stargazers)  
+    The vendor-agnostic proxy and telemetry receiver for ingesting, processing, filtering, and routing agent traces and span metrics to any observability backend.
 
+12. **[OpenLLMetry (`traceloop/openllmetry`)](https://github.com/traceloop/openllmetry)** [![GitHub stars](https://img.shields.io/github/stars/traceloop/openllmetry?style=social&color=white)](https://github.com/traceloop/openllmetry/stargazers)  
+    Open-source OpenTelemetry extensions that enable zero-code auto-instrumentation and standardized semantic spans for major LLM providers, agent frameworks (LangChain, CrewAI, AutoGen), and vector databases.
 
-- **[Arize Phoenix (`Arize-ai/phoenix`)](https://github.com)**  
+13. **[Helicone (`Helicone/helicone`)](https://github.com/Helicone/helicone)** [![GitHub stars](https://img.shields.io/github/stars/Helicone/helicone?style=social&color=white)](https://github.com/Helicone/helicone/stargazers)  
+    Open-source AI developer gateway providing real-time request logging, token spend monitoring, latency analytics, semantic caching, and prompt experiment management.
 
-  Open-source (`ELv2`) OpenTelemetry-based AI observability and evaluation tool featuring interactive trace waterfall views, RAG/tool-call diagnostics, and notebook integration.
+14. **[AgentOps SDK (`AgentOps-AI/agentops`)](https://github.com/AgentOps-AI/agentops)** [![GitHub stars](https://img.shields.io/github/stars/AgentOps-AI/agentops?style=social&color=white)](https://github.com/AgentOps-AI/agentops/stargazers)  
+    Open-source Python SDK for AI agent monitoring featuring execution session replays, tool-usage failure tracking, cost accounting, and integrations with CrewAI, LangChain, and AutoGen.
 
+15. **[LangWatch (`langwatch/langwatch`)](https://github.com/langwatch/langwatch)** [![GitHub stars](https://img.shields.io/github/stars/langwatch/langwatch?style=social&color=white)](https://github.com/langwatch/langwatch/stargazers)  
+    Self-hostable LLM Ops and agent monitoring platform featuring real-time hallucination guardrails, OpenTelemetry support, cost analytics, and visual trace debugging.
 
+16. **[Agenta (`Agenta-AI/agenta`)](https://github.com/Agenta-AI/agenta)** [![GitHub stars](https://img.shields.io/github/stars/Agenta-AI/agenta?style=social&color=white)](https://github.com/Agenta-AI/agenta/stargazers)  
+    Open-source LLMOps developer platform for prompt engineering, collaborative playground evaluations, human annotation workflows, and multi-step agent trajectory testing.
 
-- **[OpenLIT (`openlit/openlit`)](https://github.com)**  
+17. **[Logfire (`pydantic/logfire`)](https://github.com/pydantic/logfire)** [![GitHub stars](https://img.shields.io/github/stars/pydantic/logfire?style=social&color=white)](https://github.com/pydantic/logfire/stargazers)  
+    OpenTelemetry-native observability platform and SDK from the Pydantic team offering first-class Python tracing for Pydantic AI, FastAPI, OpenAI, and agent workflows.
 
-  Open-source (`Apache-2.0`) OpenTelemetry-native AI engineering platform providing zero-code instrumentation for 50+ LLM providers, agent frameworks, vector DBs, and GPU metrics.
+18. **[Inspect AI (`UKGovernmentBEIS/inspect_ai`)](https://github.com/UKGovernmentBEIS/inspect_ai)** [![GitHub stars](https://img.shields.io/github/stars/UKGovernmentBEIS/inspect_ai?style=social&color=white)](https://github.com/UKGovernmentBEIS/inspect_ai/stargazers)  
+    Open-source evaluation framework from the UK AI Safety Institute (AISI) for inspecting, benchmarking, and scoring complex coding agent workflows with transcript timeline viewers.
 
+19. **[OpenLIT (`openlit/openlit`)](https://github.com/openlit/openlit)** [![GitHub stars](https://img.shields.io/github/stars/openlit/openlit?style=social&color=white)](https://github.com/openlit/openlit/stargazers)  
+    Open-source OpenTelemetry-native AI engineering platform providing auto-instrumentation for 50+ LLMs, agent frameworks, vector databases, and GPU infrastructure metrics.
 
+20. **[Claude Code Hooks Observability (`disler/claude-code-hooks-multi-agent-observability`)](https://github.com/disler/claude-code-hooks-multi-agent-observability)** [![GitHub stars](https://img.shields.io/github/stars/disler/claude-code-hooks-multi-agent-observability?style=social&color=white)](https://github.com/disler/claude-code-hooks-multi-agent-observability/stargazers)  
+    Live dashboard streaming real-time multi-agent Claude Code telemetry via lifecycle hooks (`PreToolUse`, `PostToolUse`, `SubagentStop`) to inspect tool runs and sub-agent handoffs.
 
-- **[OpenLLMetry (`traceloop/openllmetry`)](https://github.com)**  
+21. **[OpenInference (`Arize-ai/openinference`)](https://github.com/Arize-ai/openinference)** [![GitHub stars](https://img.shields.io/github/stars/Arize-ai/openinference?style=social&color=white)](https://github.com/Arize-ai/openinference/stargazers)  
+    Standardized OpenTelemetry semantic conventions and instrumentation libraries for tracing AI agent workflows, retrieval steps, and tool invocations across Python, TypeScript, and Java.
 
-  Open-source (`Apache-2.0`) set of extensions built on standard OpenTelemetry to capture and export non-intrusive traces and metrics from any LLM or agent runtime.
+22. **[Claude Code Agent Monitor (`hoangsonww/Claude-Code-Agent-Monitor`)](https://github.com/hoangsonww/Claude-Code-Agent-Monitor)** [![GitHub stars](https://img.shields.io/github/stars/hoangsonww/Claude-Code-Agent-Monitor?style=social&color=white)](https://github.com/hoangsonww/Claude-Code-Agent-Monitor/stargazers)  
+    Open-source real-time telemetry dashboard designed specifically for inspecting local Claude Code agent sessions, sub-agent cascades, file modifications, token consumption, and execution timelines.
 
+23. **[Weights & Biases Weave (`wandb/weave`)](https://github.com/wandb/weave)** [![GitHub stars](https://img.shields.io/github/stars/wandb/weave?style=social&color=white)](https://github.com/wandb/weave/stargazers)  
+    Lightweight open-source toolkit for tracking function calls, tool executions, and evaluation metrics across LLM applications and autonomous agents.
 
+---
 
-- **[OpenInference (`Arize-ai/openinference`)](https://github.com)**  
+## 🤝 How to Contribute
 
-  Open-source (`Apache-2.0`) set of OpenTelemetry instrumentation libraries and semantic conventions for tracing AI agents across Python, TypeScript, and Java.
+Contributions are warmly welcomed! Help make this curated list the most comprehensive resource for AI Agent observability and code monitoring:
 
+1. **Fork** this repository.
+2. **Create a branch**: `git checkout -b add-my-tool`.
+3. **Add or update** entries in `README.md` maintaining alphabetical order or the relevant table/star rankings.
+4. **Include**: Product name, official link, 1–2 sentence factual summary, pricing/tier details (for SaaS), or repo star badge (for OSS).
+5. **Submit a Pull Request** with a brief overview of the tool added.
 
+---
 
-- **[Helicone (`Helicone/helicone`)](https://github.com)**  
+## 💖 Support & Community
 
-  Open-source (`Apache-2.0`) AI gateway and observability proxy enabling self-hosted request logging, cost tracking, latency monitoring, and semantic caching.
+If you find this repository valuable for your AI agent engineering, LLMOps architecture, or coding workflow telemetry:
 
+- ⭐ **Star this repository** to show your support and stay updated!
+- 🍴 **Fork and share** it with your engineering team and community.
+- 💬 **Join our community on Discord**: [Join Discord](https://discord.gg/jc4xtF58Ve)
+- ☕ **Support the maintainer**: Buy a coffee or become a sponsor on the [GitHub Sponsor Dashboard](https://github.com/sponsors/ishandutta2007) to help sustain open-source curation and tooling research!
 
+---
 
-- **[Lunary (`lunary-ai/lunary`)](https://github.com)**  
+## 📈 Star History
 
-  Self-hostable open-source (`Apache-2.0`) toolkit for LLM observability, agent run visualization, prompt templates, cost dashboards, and PII masking.
+[![Star History Chart](https://www.star-history.com/svg?repos=ishandutta2007/Awesome-AI-Agent-Observability-Code-Monitoring&type=date&legend=top-left)](https://www.star-history.com/#ishandutta2007/Awesome-AI-Agent-Observability-Code-Monitoring&type=date&legend=top-left)
 
+---
 
+## ⚖️ Disclaimer
 
-- **[Opik (`comet-ml/opik`)](https://github.com)**  
-
-  Open-source (`Apache-2.0`) end-to-end LLM evaluation and tracing platform from Comet built for logging high-volume agent traces and running LLM-as-a-judge checks.
-
-
-
-- **[Weights & Biases Weave (`wandb/weave`)](https://github.com)**  
-
-  Open-source (`Apache-2.0`) lightweight Python/TypeScript toolkit for tracking inputs, outputs, nested tool calls, and evaluation scores across agent applications.
-
-
-
-- **[Agenta (`Agenta-AI/agenta`)](https://github.com)**  
-
-  Open-source (`MIT`) LLMOps platform focused on collaborative prompt engineering, custom agent workflow playgrounds, and human/automated trajectory evaluation.
-
-
-
-- **[AgentOps SDK (`AgentOps-AI/agentops`)](https://github.com)**  
-
-  Open-source (`MIT`) Python SDK for instrumenting AI agents with session replays, tool-usage metrics, token cost accounting, and framework integrations.
-
-
-
-- **[Logfire (`pydantic/logfire`)](https://github.com)**  
-
-  OpenTelemetry-native observability platform and open-source SDKs from the Pydantic team offering first-class instrumentation for Pydantic AI, OpenAI, and Python agents.
-
-
-
-- **[LangWatch (`langwatch/langwatch`)](https://github.com)**  
-
-  Open-source (`Fair-code` / self-hostable) LLM Ops and agent monitoring platform featuring real-time evaluation guardrails, OpenTelemetry support, and visual trace debugging.
-
-
-
-- **[TensorZero (`tensorzero/tensorzero`)](https://github.com)**  
-
-  Open-source (`Apache-2.0`) industrial-grade LLM gateway, observability, and experimentation engine written in Rust for high-throughput agent telemetry.
-
-
-
-- **[ccusage (`ryoppippi/ccusage`)](https://github.com)**  
-
-  Fast open-source (`MIT`) CLI analyzer for tracking local Claude Code JSONL session logs, daily token consumption, cache hit rates, and model spend.
-
-
-
-- **[Claude Code Hooks Observability (`disler/claude-code-hooks-multi-agent-observability`)](https://github.com)**  
-
-  Open-source real-time monitoring system using Claude Code lifecycle hooks (`PreToolUse`, `PostToolUse`, `SubagentStop`) to stream multi-agent coding activity to a live web dashboard.
-
-
-
-- **[Inspect AI (`UKGovernmentBEIS/inspect_ai`)](https://github.com)**  
-
-  Open-source (`MIT`) framework from UK AISI for evaluating and inspecting complex coding and tool-use agent trajectories with full transcript viewers.
-
-
-
-### Additional Strong Open-Source Options
-
-
-
-- **[SigNoz](https://github.com)** and **[Grafana Tempo + Prometheus](https://github.com)** for open-source OpenTelemetry backends storing and querying high-cardinality agent traces alongside infrastructure metrics.
-
-- **[Jaeger](https://github.com)** and **[Zipkin](https://github.com)** for lightweight, battle-tested distributed tracing UIs compatible with OpenLLMetry and OpenInference spans.
-
-- **[Promptfoo](https://github.com)** and **[DeepEval](https://github.com)** for CI/CD agent regression testing, red-teaming, and automated tool-correctness scoring.
-
-- **[MLflow Tracing (`mlflow/mlflow`)](https://github.com)** for open-source end-to-end experiment tracking and OpenTelemetry-compatible GenAI/agent span visualization.
-
-- **[claude-code-otel / OpenTelemetry Collector](https://github.com)** for exporting native `CLAUDE_CODE_ENABLE_TELEMETRY=1` metrics and logs directly into self-hosted observability stacks.
-
-
-
-**Frameworks for building custom systems**: Combine **hoangsonww/Claude-Code-Agent-Monitor** (coding agent telemetry) with **OpenLLMetry / OpenInference** (OpenTelemetry instrumentation), **Langfuse** or **Arize Phoenix** (trace & session UI), and **Grafana / SigNoz** for end-to-end open-source AI agent observability and code monitoring.
-
-
-
-## How to Contribute
-
-
-
-1. Fork the repo.
-
-2. Add/edit entries in `README.md` (follow existing format).
-
-3. Include: name, link, 1–2 sentence description, and whether it's SaaS or open-source.
-
-4. Submit PR with a short explanation.
-
-
-
-Star the repo if you find it useful!
-
-
-
-## Disclaimer
+*All trademarks, logos, brand names, and product names referenced in this repository belong to their respective owners. Mention of SaaS products or open-source projects is purely informational and educational, and does not constitute official endorsement. Pricing tiers, limits, and star counts are subject to change by their respective providers and maintainers.*
