@@ -42,65 +42,18 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## SaaS/Hosted Platforms
 
-
-
-- **[LangSmith (LangChain)](https://langchain.com)**  
-
-  All-in-one cloud observability, debugging, testing, and evaluation platform engineered for tracing complex LLM chains and stateful LangGraph agent runs.
-
-
-
-- **[Arize AX / Arize Phoenix Cloud](https://arize.com)**  
-
-  Enterprise AI observability and LLM evaluation platform delivering deep OpenTelemetry span tracing, drift detection, and root-cause diagnostics for agents.
-
-
-
-- **[Helicone](https://helicone.ai)**  
-
-  Proxy-based LLM observability and AI gateway platform offering real-time request logging, token/cost analytics, caching, and rate-limit monitoring.
-
-
-
-- **[HoneyHive](https://honeyhive.ai)**  
-
-  AI observability and evaluation suite built for compounding agent reliability via production trace curation, human feedback loops, and CI/CD regression checks.
-
-
-
-- **[Braintrust](https://braintrust.dev)**  
-
-  Enterprise AI evaluation, prompt playground, and logging platform designed to score multi-step agent trajectories and prevent quality regressions.
-
-
-
-- **[Traceloop](https://traceloop.com)**  
-
-  Managed OpenTelemetry-native LLM observability and reliability platform built on OpenLLMetry for real-time agent tracing and hallucination detection.
-
-
-
-- **[OpenLIT Cloud](https://openlit.io)**  
-
-  Hosted OpenTelemetry-native observability and GPU/LLM monitoring platform tracking token consumption, vector database latency, and agent execution spans.
-
-
-
-- **[Lunary](https://lunary.ai)**  
-
-  Production LLM observability, prompt management, and user analytics platform tailored for multi-step AI agent workflows and B2B AI products.
-
-
-
-- **[Galileo](https://rungalileo.io)**  
-
-  Enterprise AI evaluation and observability platform featuring real-time hallucination guardrails, agentic trajectory metrics, and automated error clustering.
-
-
-
-- **[Weights & Biases Weave](https://wandb.ai)**  
-
-  Cloud developer toolkit from W&B for logging, tracing, visualizing, and evaluating LLM calls, tool executions, and multi-agent workflows.
+| Platform | Company Valuation / Revenue | Starting Paid Tier Price | Free Tier Limits / Trial | Description |
+| :--- | :--- | :--- | :--- | :--- |
+| **[LangSmith (LangChain)](https://langchain.com)** | **$3.0B valuation** (Series C) / ~$16M ARR | **$39 / user / month** (Plus Plan; includes 10,000 traces/mo, additional at $2.50/1k) | **Developer Free Plan**: 5,000 traces/mo, 1 seat, 14-day data retention | All-in-one cloud observability, debugging, testing, and evaluation platform engineered for tracing complex LLM chains and stateful LangGraph agent runs. |
+| **[Weights & Biases Weave](https://wandb.ai)** | **$1.4B–$1.7B acquisition** by CoreWeave / ~$50M ARR | **$60 / month** (Pro Plan; up to 10 seats, 100 GB storage) | **Free Plan**: Up to 5 model seats, ~1 GB/mo Weave trace ingestion, 5 GB storage | Cloud developer toolkit from W&B for logging, tracing, visualizing, and evaluating LLM calls, tool executions, and multi-agent workflows. |
+| **[Arize AX / Arize Phoenix Cloud](https://arize.com)** | **$915M acquisition** by Dynatrace (raised $131M) | **$50 / month** (AX Pro; 50,000 spans/mo, 10 GB ingestion, 30-day retention) | **Free Plan**: 25,000 spans/mo, 1 GB ingestion, 15-day data retention, 1 space | Enterprise AI observability and LLM evaluation platform delivering deep OpenTelemetry span tracing, drift detection, and root-cause diagnostics for agents. |
+| **[Braintrust](https://braintrust.dev)** | **$800M valuation** (Series B) | **$249 / month** (Pro Plan; includes 5 GB processed data, 50k scores/mo, $100 model credits) | **Starter Free Plan**: 1 GB processed data/mo, 10,000 scores/mo, 14-day retention, $10 model credits/mo | Enterprise AI evaluation, prompt playground, and logging platform designed to score multi-step agent trajectories and prevent quality regressions. |
+| **[Galileo](https://rungalileo.io)** | **$100M–$250M estimated valuation** ($68M raised) / ~$5M ARR | **$100 / month** (billed annually, or $150/mo billed monthly; Pro Plan includes 50,000 traces/mo) | **Free Plan**: 5,000 traces/mo, single-user access, unlimited custom evaluations | Enterprise AI evaluation and observability platform featuring real-time hallucination guardrails, agentic trajectory metrics, and automated error clustering. |
+| **[Traceloop](https://traceloop.com)** | **$70M acquisition** by ServiceNow ($6.6M raised) | **Custom annual enterprise contract** (starts ~$15,000/yr via AWS/cloud marketplace) | **Free Plan**: 50,000 spans/mo, up to 5 seats, 24-hour data retention | Managed OpenTelemetry-native LLM observability and reliability platform built on OpenLLMetry for real-time agent tracing and hallucination detection. |
+| **[HoneyHive](https://honeyhive.ai)** | **$7.4M funding raised** (Seed led by Insight Partners) | **Custom enterprise contract** (Sales-led; no intermediate self-serve tier) | **Developer Free Plan**: 10,000 events/mo, up to 5 users, 1 workspace, 30-day data retention | AI observability and evaluation suite built for compounding agent reliability via production trace curation, human feedback loops, and CI/CD regression checks. |
+| **[Helicone](https://helicone.ai)** | **~$1M ARR** (YC-backed; acquisition by Mintlify) | **$79 / month** (Pro Plan; 1,000 logs/min, 1 month retention; includes 7-day free trial) | **Hobby Free Plan**: 10,000 requests/mo, 1 GB storage, 1 seat, 7-day data retention, 10 logs/min | Proxy-based LLM observability and AI gateway platform offering real-time request logging, token/cost analytics, caching, and rate-limit monitoring. |
+| **[Lunary](https://lunary.ai)** | **Early-stage / Seed** (Xpreneurs backed) | **$20 / user / month** (Team Plan; includes 50,000 events/mo, 300 playground queries/mo) | **No free tier or trial on Cloud** (Requires $20/user/mo upfront; unlimited free usage if self-hosted via OSS) | Production LLM observability, prompt management, and user analytics platform tailored for multi-step AI agent workflows and B2B AI products. |
+| **[OpenLIT Cloud](https://openlit.io)** | **Bootstrapped / Community open-source** | **Custom enterprise contract** (Managed cloud platform waitlist / Private beta) | **Waitlist only for Cloud** (Unlimited free usage with no trace caps or seat limits via self-hosted Apache 2.0 OSS) | Hosted OpenTelemetry-native observability and GPU/LLM monitoring platform tracking token consumption, vector database latency, and agent execution spans. |
 
 
 
