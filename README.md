@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-AI-Agent-Observability-Code-Monitoring/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-AI-Agent-Observability-Code-Monitoring?style=flat-square&color=gold" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-AI-Agent-Observability-Code-Monitoring/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-AI-Agent-Observability-Code-Monitoring?style=flat-square&color=gold" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-AI-Agent-Observability-Code-Monitoring/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-AI-Agent-Observability-Code-Monitoring?style=flat-square&color=blue" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-AI-Agent-Observability-Code-Monitoring/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-AI-Agent-Observability-Code-Monitoring?style=flat-square&color=green" alt="Issues" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-AI-Agent-Observability-Code-Monitoring/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-AI-Agent-Observability-Code-Monitoring?style=flat-square&color=orange" alt="License" /></a>
@@ -65,75 +65,75 @@ The sector is currently transitioning from **high fragmentation** (characterized
 
 ## 💻 Open-Source GitHub Projects
 
-All open-source repositories below are sorted in descending order by their GitHub star count. Each repo is paired with a direct social star badge linking to its stargazers page.
+All open-source repositories below are sorted in descending order by their GitHub Stars_Count. Each repo is paired with a direct social Stars_Badge linking to its stargazers page.
 
-1. **[Langfuse (`langfuse/langfuse`)](https://github.com/langfuse/langfuse)** [![GitHub stars](https://img.shields.io/github/stars/langfuse/langfuse?style=social&color=white)](https://github.com/langfuse/langfuse/stargazers)  
+1. **[Langfuse (`langfuse/langfuse`)](https://github.com/langfuse/langfuse)** [![GitHub_Stars](https://img.shields.io/github/stars/langfuse/langfuse?style=social&color=white)](https://github.com/langfuse/langfuse/stargazers)  
    Leading open-source LLM engineering and observability platform for full-stack agent tracing, nested span visualization, prompt versioning, session replays, and automated LLM-as-a-judge evaluations.
 
-2. **[SigNoz (`SigNoz/signoz`)](https://github.com/SigNoz/signoz)** [![GitHub stars](https://img.shields.io/github/stars/SigNoz/signoz?style=social&color=white)](https://github.com/SigNoz/signoz/stargazers)  
+2. **[SigNoz (`SigNoz/signoz`)](https://github.com/SigNoz/signoz)** [![GitHub_Stars](https://img.shields.io/github/stars/SigNoz/signoz?style=social&color=white)](https://github.com/SigNoz/signoz/stargazers)  
    Open-source alternative to DataDog and New Relic providing native OpenTelemetry distributed tracing, metrics, and log aggregation tailored for microservices and AI agent workloads.
 
-3. **[MLflow (`mlflow/mlflow`)](https://github.com/mlflow/mlflow)** [![GitHub stars](https://img.shields.io/github/stars/mlflow/mlflow?style=social&color=white)](https://github.com/mlflow/mlflow/stargazers)  
+3. **[MLflow (`mlflow/mlflow`)](https://github.com/mlflow/mlflow)** [![GitHub_Stars](https://img.shields.io/github/stars/mlflow/mlflow?style=social&color=white)](https://github.com/mlflow/mlflow/stargazers)  
    Comprehensive open-source machine learning and LLMOps platform featuring native GenAI tracing, model evaluation, artifact tracking, and OpenTelemetry span visualization for agent pipelines.
 
-4. **[Promptfoo (`promptfoo/promptfoo`)](https://github.com/promptfoo/promptfoo)** [![GitHub stars](https://img.shields.io/github/stars/promptfoo/promptfoo?style=social&color=white)](https://github.com/promptfoo/promptfoo/stargazers)  
+4. **[Promptfoo (`promptfoo/promptfoo`)](https://github.com/promptfoo/promptfoo)** [![GitHub_Stars](https://img.shields.io/github/stars/promptfoo/promptfoo?style=social&color=white)](https://github.com/promptfoo/promptfoo/stargazers)  
    Test-driven security, red-teaming, and CI/CD evaluation framework for LLMs and autonomous agents to detect hallucinations, assess tool-call correctness, and enforce safety guardrails.
 
-5. **[Opik (`comet-ml/opik`)](https://github.com/comet-ml/opik)** [![GitHub stars](https://img.shields.io/github/stars/comet-ml/opik?style=social&color=white)](https://github.com/comet-ml/opik/stargazers)  
+5. **[Opik (`comet-ml/opik`)](https://github.com/comet-ml/opik)** [![GitHub_Stars](https://img.shields.io/github/stars/comet-ml/opik?style=social&color=white)](https://github.com/comet-ml/opik/stargazers)  
    Open-source (`Apache-2.0`) end-to-end LLM evaluation and observability platform from Comet built for logging high-volume multi-agent runs, tracking token spend, and running automated judges.
 
-6. **[Jaeger (`jaegertracing/jaeger`)](https://github.com/jaegertracing/jaeger)** [![GitHub stars](https://img.shields.io/github/stars/jaegertracing/jaeger?style=social&color=white)](https://github.com/jaegertracing/jaeger/stargazers)  
+6. **[Jaeger (`jaegertracing/jaeger`)](https://github.com/jaegertracing/jaeger)** [![GitHub_Stars](https://img.shields.io/github/stars/jaegertracing/jaeger?style=social&color=white)](https://github.com/jaegertracing/jaeger/stargazers)  
    Cloud Native Computing Foundation (CNCF) graduated distributed tracing system used as a battle-tested backend for visualizing OpenTelemetry spans and multi-agent execution graphs.
 
-7. **[DeepEval (`confident-ai/deepeval`)](https://github.com/confident-ai/deepeval)** [![GitHub stars](https://img.shields.io/github/stars/confident-ai/deepeval?style=social&color=white)](https://github.com/confident-ai/deepeval/stargazers)  
+7. **[DeepEval (`confident-ai/deepeval`)](https://github.com/confident-ai/deepeval)** [![GitHub_Stars](https://img.shields.io/github/stars/confident-ai/deepeval?style=social&color=white)](https://github.com/confident-ai/deepeval/stargazers)  
    Open-source evaluation framework for unit testing LLM applications and agent trajectories with support for G-Eval, hallucination detection, RAG metrics, and tool execution accuracy.
 
-8. **[ccusage (`ryoppippi/ccusage`)](https://github.com/ryoppippi/ccusage)** [![GitHub stars](https://img.shields.io/github/stars/ryoppippi/ccusage?style=social&color=white)](https://github.com/ryoppippi/ccusage/stargazers)  
+8. **[ccusage (`ryoppippi/ccusage`)](https://github.com/ryoppippi/ccusage)** [![GitHub_Stars](https://img.shields.io/github/stars/ryoppippi/ccusage?style=social&color=white)](https://github.com/ryoppippi/ccusage/stargazers)  
    Fast open-source CLI analyzer and terminal dashboard for parsing local Claude Code JSONL session logs, daily token burn, cache hit efficiency, and model API cost analytics.
 
-9. **[Arize Phoenix (`Arize-ai/phoenix`)](https://github.com/Arize-ai/phoenix)** [![GitHub stars](https://img.shields.io/github/stars/Arize-ai/phoenix?style=social&color=white)](https://github.com/Arize-ai/phoenix/stargazers)  
+9. **[Arize Phoenix (`Arize-ai/phoenix`)](https://github.com/Arize-ai/phoenix)** [![GitHub_Stars](https://img.shields.io/github/stars/Arize-ai/phoenix?style=social&color=white)](https://github.com/Arize-ai/phoenix/stargazers)  
    Open-source AI observability and evaluation platform delivering interactive trace waterfall timelines, tool-calling diagnostics, RAG analysis, and notebook integration.
 
-10. **[TensorZero (`tensorzero/tensorzero`)](https://github.com/tensorzero/tensorzero)** [![GitHub stars](https://img.shields.io/github/stars/tensorzero/tensorzero?style=social&color=white)](https://github.com/tensorzero/tensorzero/stargazers)  
+10. **[TensorZero (`tensorzero/tensorzero`)](https://github.com/tensorzero/tensorzero)** [![GitHub_Stars](https://img.shields.io/github/stars/tensorzero/tensorzero?style=social&color=white)](https://github.com/tensorzero/tensorzero/stargazers)  
     High-performance, industrial-grade open-source LLM gateway, observability proxy, and experimentation engine written in Rust for low-latency agent telemetry.
 
-11. **[OpenTelemetry Collector (`open-telemetry/opentelemetry-collector`)](https://github.com/open-telemetry/opentelemetry-collector)** [![GitHub stars](https://img.shields.io/github/stars/open-telemetry/opentelemetry-collector?style=social&color=white)](https://github.com/open-telemetry/opentelemetry-collector/stargazers)  
+11. **[OpenTelemetry Collector (`open-telemetry/opentelemetry-collector`)](https://github.com/open-telemetry/opentelemetry-collector)** [![GitHub_Stars](https://img.shields.io/github/stars/open-telemetry/opentelemetry-collector?style=social&color=white)](https://github.com/open-telemetry/opentelemetry-collector/stargazers)  
     The vendor-agnostic proxy and telemetry receiver for ingesting, processing, filtering, and routing agent traces and span metrics to any observability backend.
 
-12. **[OpenLLMetry (`traceloop/openllmetry`)](https://github.com/traceloop/openllmetry)** [![GitHub stars](https://img.shields.io/github/stars/traceloop/openllmetry?style=social&color=white)](https://github.com/traceloop/openllmetry/stargazers)  
+12. **[OpenLLMetry (`traceloop/openllmetry`)](https://github.com/traceloop/openllmetry)** [![GitHub_Stars](https://img.shields.io/github/stars/traceloop/openllmetry?style=social&color=white)](https://github.com/traceloop/openllmetry/stargazers)  
     Open-source OpenTelemetry extensions that enable zero-code auto-instrumentation and standardized semantic spans for major LLM providers, agent frameworks (LangChain, CrewAI, AutoGen), and vector databases.
 
-13. **[Helicone (`Helicone/helicone`)](https://github.com/Helicone/helicone)** [![GitHub stars](https://img.shields.io/github/stars/Helicone/helicone?style=social&color=white)](https://github.com/Helicone/helicone/stargazers)  
+13. **[Helicone (`Helicone/helicone`)](https://github.com/Helicone/helicone)** [![GitHub_Stars](https://img.shields.io/github/stars/Helicone/helicone?style=social&color=white)](https://github.com/Helicone/helicone/stargazers)  
     Open-source AI developer gateway providing real-time request logging, token spend monitoring, latency analytics, semantic caching, and prompt experiment management.
 
-14. **[AgentOps SDK (`AgentOps-AI/agentops`)](https://github.com/AgentOps-AI/agentops)** [![GitHub stars](https://img.shields.io/github/stars/AgentOps-AI/agentops?style=social&color=white)](https://github.com/AgentOps-AI/agentops/stargazers)  
+14. **[AgentOps SDK (`AgentOps-AI/agentops`)](https://github.com/AgentOps-AI/agentops)** [![GitHub_Stars](https://img.shields.io/github/stars/AgentOps-AI/agentops?style=social&color=white)](https://github.com/AgentOps-AI/agentops/stargazers)  
     Open-source Python SDK for AI agent monitoring featuring execution session replays, tool-usage failure tracking, cost accounting, and integrations with CrewAI, LangChain, and AutoGen.
 
-15. **[LangWatch (`langwatch/langwatch`)](https://github.com/langwatch/langwatch)** [![GitHub stars](https://img.shields.io/github/stars/langwatch/langwatch?style=social&color=white)](https://github.com/langwatch/langwatch/stargazers)  
+15. **[LangWatch (`langwatch/langwatch`)](https://github.com/langwatch/langwatch)** [![GitHub_Stars](https://img.shields.io/github/stars/langwatch/langwatch?style=social&color=white)](https://github.com/langwatch/langwatch/stargazers)  
     Self-hostable LLM Ops and agent monitoring platform featuring real-time hallucination guardrails, OpenTelemetry support, cost analytics, and visual trace debugging.
 
-16. **[Agenta (`Agenta-AI/agenta`)](https://github.com/Agenta-AI/agenta)** [![GitHub stars](https://img.shields.io/github/stars/Agenta-AI/agenta?style=social&color=white)](https://github.com/Agenta-AI/agenta/stargazers)  
+16. **[Agenta (`Agenta-AI/agenta`)](https://github.com/Agenta-AI/agenta)** [![GitHub_Stars](https://img.shields.io/github/stars/Agenta-AI/agenta?style=social&color=white)](https://github.com/Agenta-AI/agenta/stargazers)  
     Open-source LLMOps developer platform for prompt engineering, collaborative playground evaluations, human annotation workflows, and multi-step agent trajectory testing.
 
-17. **[Logfire (`pydantic/logfire`)](https://github.com/pydantic/logfire)** [![GitHub stars](https://img.shields.io/github/stars/pydantic/logfire?style=social&color=white)](https://github.com/pydantic/logfire/stargazers)  
+17. **[Logfire (`pydantic/logfire`)](https://github.com/pydantic/logfire)** [![GitHub_Stars](https://img.shields.io/github/stars/pydantic/logfire?style=social&color=white)](https://github.com/pydantic/logfire/stargazers)  
     OpenTelemetry-native observability platform and SDK from the Pydantic team offering first-class Python tracing for Pydantic AI, FastAPI, OpenAI, and agent workflows.
 
-18. **[Inspect AI (`UKGovernmentBEIS/inspect_ai`)](https://github.com/UKGovernmentBEIS/inspect_ai)** [![GitHub stars](https://img.shields.io/github/stars/UKGovernmentBEIS/inspect_ai?style=social&color=white)](https://github.com/UKGovernmentBEIS/inspect_ai/stargazers)  
+18. **[Inspect AI (`UKGovernmentBEIS/inspect_ai`)](https://github.com/UKGovernmentBEIS/inspect_ai)** [![GitHub_Stars](https://img.shields.io/github/stars/UKGovernmentBEIS/inspect_ai?style=social&color=white)](https://github.com/UKGovernmentBEIS/inspect_ai/stargazers)  
     Open-source evaluation framework from the UK AI Safety Institute (AISI) for inspecting, benchmarking, and scoring complex coding agent workflows with transcript timeline viewers.
 
-19. **[OpenLIT (`openlit/openlit`)](https://github.com/openlit/openlit)** [![GitHub stars](https://img.shields.io/github/stars/openlit/openlit?style=social&color=white)](https://github.com/openlit/openlit/stargazers)  
+19. **[OpenLIT (`openlit/openlit`)](https://github.com/openlit/openlit)** [![GitHub_Stars](https://img.shields.io/github/stars/openlit/openlit?style=social&color=white)](https://github.com/openlit/openlit/stargazers)  
     Open-source OpenTelemetry-native AI engineering platform providing auto-instrumentation for 50+ LLMs, agent frameworks, vector databases, and GPU infrastructure metrics.
 
-20. **[Claude Code Hooks Observability (`disler/claude-code-hooks-multi-agent-observability`)](https://github.com/disler/claude-code-hooks-multi-agent-observability)** [![GitHub stars](https://img.shields.io/github/stars/disler/claude-code-hooks-multi-agent-observability?style=social&color=white)](https://github.com/disler/claude-code-hooks-multi-agent-observability/stargazers)  
+20. **[Claude Code Hooks Observability (`disler/claude-code-hooks-multi-agent-observability`)](https://github.com/disler/claude-code-hooks-multi-agent-observability)** [![GitHub_Stars](https://img.shields.io/github/stars/disler/claude-code-hooks-multi-agent-observability?style=social&color=white)](https://github.com/disler/claude-code-hooks-multi-agent-observability/stargazers)  
     Live dashboard streaming real-time multi-agent Claude Code telemetry via lifecycle hooks (`PreToolUse`, `PostToolUse`, `SubagentStop`) to inspect tool runs and sub-agent handoffs.
 
-21. **[OpenInference (`Arize-ai/openinference`)](https://github.com/Arize-ai/openinference)** [![GitHub stars](https://img.shields.io/github/stars/Arize-ai/openinference?style=social&color=white)](https://github.com/Arize-ai/openinference/stargazers)  
+21. **[OpenInference (`Arize-ai/openinference`)](https://github.com/Arize-ai/openinference)** [![GitHub_Stars](https://img.shields.io/github/stars/Arize-ai/openinference?style=social&color=white)](https://github.com/Arize-ai/openinference/stargazers)  
     Standardized OpenTelemetry semantic conventions and instrumentation libraries for tracing AI agent workflows, retrieval steps, and tool invocations across Python, TypeScript, and Java.
 
-22. **[Claude Code Agent Monitor (`hoangsonww/Claude-Code-Agent-Monitor`)](https://github.com/hoangsonww/Claude-Code-Agent-Monitor)** [![GitHub stars](https://img.shields.io/github/stars/hoangsonww/Claude-Code-Agent-Monitor?style=social&color=white)](https://github.com/hoangsonww/Claude-Code-Agent-Monitor/stargazers)  
+22. **[Claude Code Agent Monitor (`hoangsonww/Claude-Code-Agent-Monitor`)](https://github.com/hoangsonww/Claude-Code-Agent-Monitor)** [![GitHub_Stars](https://img.shields.io/github/stars/hoangsonww/Claude-Code-Agent-Monitor?style=social&color=white)](https://github.com/hoangsonww/Claude-Code-Agent-Monitor/stargazers)  
     Open-source real-time telemetry dashboard designed specifically for inspecting local Claude Code agent sessions, sub-agent cascades, file modifications, token consumption, and execution timelines.
 
-23. **[Weights & Biases Weave (`wandb/weave`)](https://github.com/wandb/weave)** [![GitHub stars](https://img.shields.io/github/stars/wandb/weave?style=social&color=white)](https://github.com/wandb/weave/stargazers)  
+23. **[Weights & Biases Weave (`wandb/weave`)](https://github.com/wandb/weave)** [![GitHub_Stars](https://img.shields.io/github/stars/wandb/weave?style=social&color=white)](https://github.com/wandb/weave/stargazers)  
     Lightweight open-source toolkit for tracking function calls, tool executions, and evaluation metrics across LLM applications and autonomous agents.
 
 ---
@@ -145,7 +145,7 @@ Contributions are warmly welcomed! Help make this curated list the most comprehe
 1. **Fork** this repository.
 2. **Create a branch**: `git checkout -b add-my-tool`.
 3. **Add or update** entries in `README.md` maintaining alphabetical order or the relevant table/star rankings.
-4. **Include**: Product name, official link, 1–2 sentence factual summary, pricing/tier details (for SaaS), or repo star badge (for OSS).
+4. **Include**: Product name, official link, 1–2 sentence factual summary, pricing/tier details (for SaaS), or repo Stars_Badge (for OSS).
 5. **Submit a Pull Request** with a brief overview of the tool added.
 
 ---
@@ -169,4 +169,4 @@ If you find this repository valuable for your AI agent engineering, LLMOps archi
 
 ## ⚖️ Disclaimer
 
-*All trademarks, logos, brand names, and product names referenced in this repository belong to their respective owners. Mention of SaaS products or open-source projects is purely informational and educational, and does not constitute official endorsement. Pricing tiers, limits, and star counts are subject to change by their respective providers and maintainers.*
+*All trademarks, logos, brand names, and product names referenced in this repository belong to their respective owners. Mention of SaaS products or open-source projects is purely informational and educational, and does not constitute official endorsement. Pricing tiers, limits, and Stars_Counts are subject to change by their respective providers and maintainers.*
